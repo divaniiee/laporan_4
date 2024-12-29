@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #f7e0d9;
+}
+.Flowers_Catalog {
+  background-color: #f7e0d9;
+}
+
+section {
+  padding-top: 5 rem;
+}
+.card-img-top {
+  height: 200px;
+  width: 100%;
+  object-fit: contain;
+}
